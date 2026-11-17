@@ -1,2 +1,1 @@
-# pedido-rosilda
-Site Mobile para Pedidos de Supermercado Online
+Página do pedido da semana para a Rosilda conferir.
